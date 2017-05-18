@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LYPhotoBrowser_Example' do
+  pod 'LYPhotoBrowser', :path => '../'
+
+  target 'LYPhotoBrowser_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
