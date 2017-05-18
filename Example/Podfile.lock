@@ -1,0 +1,16 @@
+PODS:
+  - LYPhotoBrowser (0.1.0)
+
+DEPENDENCIES:
+  - LYPhotoBrowser (from `../`)
+
+EXTERNAL SOURCES:
+  LYPhotoBrowser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYPhotoBrowser: a7c669bc6b087a5741951d76720a84027f077b58
+
+PODFILE CHECKSUM: 24c30d624b33d00c54e41bac8e65a5f241009180
+
+COCOAPODS: 1.2.1

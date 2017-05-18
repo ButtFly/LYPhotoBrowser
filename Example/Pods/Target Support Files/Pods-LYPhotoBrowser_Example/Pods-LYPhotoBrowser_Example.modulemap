@@ -1,0 +1,6 @@
+framework module Pods_LYPhotoBrowser_Example {
+  umbrella header "Pods-LYPhotoBrowser_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

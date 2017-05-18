@@ -1,0 +1,6 @@
+framework module LYPhotoBrowser {
+  umbrella header "LYPhotoBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
